@@ -1,0 +1,38 @@
+button{
+    color: white;
+    background-color: red;
+    border-color:red ;
+}
+#mybutton{
+    line-height: 12px;
+    width: 80px;
+    font-size:12pt;
+    margin-top: 1px;
+    margin-right: 2px;
+    position:absolute;
+    top:0;
+    right:0;
+    
+}
+#sec1{
+    color: white;
+    background-color: black;
+    background-image:url("netflixbackground.jpg");
+    
+}
+#sec2{
+    color: white;
+    background-image: url("netflixbackground.jpg");
+    text-align: center;
+}
+#sec3{
+   float:right;
+   
+   
+}
+
+body{
+    color: white;
+    background-color: black;
+    
+}
